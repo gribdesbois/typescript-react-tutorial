@@ -12,6 +12,8 @@ export default class FirstComponent extends Component<{}> {
           <div>
             <img src={Logo} height="250" />
           </div>
+          <p>This component shows the Logrocket logo</p>
+          <p>For more info on Logrocket, please visit https://logrocket.com</p>
         </h3>
       </div>
     )
